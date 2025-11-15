@@ -1,3 +1,4 @@
+module 1
 1. Print "Hello Java" to the console
 <img width="1280" height="451" alt="image" src="https://github.com/user-attachments/assets/d6bf6402-d6a7-447a-a2e0-77c52971aa2d" />
 2. Print your name, age, and favorite programming language
@@ -19,6 +20,10 @@
 10. Create a Student class and display student info
 <img width="1280" height="411" alt="image" src="https://github.com/user-attachments/assets/79e0a94f-0c96-4397-a05c-e1b37e43839e" />
 
+module 2
+M2.1 Write a Java program to input two integers and display their sum, difference, product, quotient, and remainder.
+<img width="437" height="299" alt="image" src="https://github.com/user-attachments/assets/0c9f0a64-93e4-4dc5-9450-96e43092d08a" />
+M2.2 Write a program to perform bitwise AND, OR, and XOR operations on two integers entered by the user, and print the binary results.
 
 
 
