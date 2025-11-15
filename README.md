@@ -30,6 +30,8 @@ M2.3 Write a Java program to compare two numbers and print which one is greater 
 M2.4 Create a program that checks if a person is eligible to vote — eligibility requires age ≥ 18 and citizenship = true (use logical AND).
 <img width="327" height="264" alt="image" src="https://github.com/user-attachments/assets/7f640b1a-a02d-4018-96ad-b4fa44203024" />
 M2.5 Write a program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
+<img width="362" height="307" alt="image" src="https://github.com/user-attachments/assets/0e3d93af-3bb8-4701-94e4-daf212e2250e" />
+M2.6 Write a Java program that reads a number and uses the ternary operator to print whether it is even or odd.
 
 
 
