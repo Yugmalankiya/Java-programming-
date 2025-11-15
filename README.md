@@ -15,6 +15,8 @@
 8. Print multiplication table of a number
 <img width="1280" height="351" alt="image" src="https://github.com/user-attachments/assets/c3099d01-b943-447f-8156-9231dc48fcb1" />
 9. Find the sum and average of elements in an array
+<img width="1280" height="383" alt="image" src="https://github.com/user-attachments/assets/0dbd7812-ca5a-448f-94c6-7617070e7b24" />
+10. Create a Student class and display student info
 
 
 
