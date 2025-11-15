@@ -10,6 +10,9 @@
 <img width="1280" height="369" alt="image" src="https://github.com/user-attachments/assets/9c9ae58f-7fa3-487f-be54-ac3c22d3b9c6" />
 6. Check if a number is even or odd
 <img width="1226" height="572" alt="image" src="https://github.com/user-attachments/assets/27697deb-ec88-471e-944c-2f67a6b14d57" />
+7. Find the largest of three numbers
+<img width="1280" height="323" alt="image" src="https://github.com/user-attachments/assets/34845e58-fcbd-4a01-bdd4-faf5af5258f3" />
+8. Print multiplication table of a number
 
 
 
