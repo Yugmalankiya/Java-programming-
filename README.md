@@ -5,3 +5,6 @@
 3. Calculate and print the area of a circle (radius = 7.5)
 <img width="1280" height="377" alt="image" src="https://github.com/user-attachments/assets/f094926d-f6da-46ee-a49c-1debecc37659" />
 
+
+
+
