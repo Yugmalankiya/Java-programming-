@@ -13,6 +13,8 @@
 7. Find the largest of three numbers
 <img width="1280" height="323" alt="image" src="https://github.com/user-attachments/assets/34845e58-fcbd-4a01-bdd4-faf5af5258f3" />
 8. Print multiplication table of a number
+<img width="1280" height="351" alt="image" src="https://github.com/user-attachments/assets/c3099d01-b943-447f-8156-9231dc48fcb1" />
+9. Find the sum and average of elements in an array
 
 
 
