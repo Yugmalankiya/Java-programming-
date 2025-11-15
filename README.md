@@ -35,5 +35,7 @@ M2.6 Write a Java program that reads a number and uses the ternary operator to p
 <img width="365" height="236" alt="Screenshot 2025-11-15 at 3 52 43 PM" src="https://github.com/user-attachments/assets/46d86a56-c7dc-4658-994e-0f033eef0e61" />
 M2.7 Write a Java program using an if-else statement to determine if an input number is positive, negative, or zero.
 <img width="354" height="298" alt="Screenshot 2025-11-15 at 4 01 14 PM" src="https://github.com/user-attachments/assets/314d45fc-1493-40f1-86a6-9d6448f36175" />
+M2.8 Write a program to print the multiplication table of a number using a for loop.
+<img width="379" height="442" alt="Screenshot 2025-11-15 at 4 05 38 PM" src="https://github.com/user-attachments/assets/1dfa3d67-bfef-40ba-9819-3c410b04308e" />
 
 
