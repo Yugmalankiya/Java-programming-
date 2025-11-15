@@ -27,6 +27,9 @@ M2.2 Write a program to perform bitwise AND, OR, and XOR operations on two integ
 <img width="391" height="343" alt="image" src="https://github.com/user-attachments/assets/303dcf57-93d6-4865-a444-11e51ca3b20c" />
 M2.3 Write a Java program to compare two numbers and print which one is greater or if they are equal.
 <img width="305" height="230" alt="image" src="https://github.com/user-attachments/assets/ed5c7f9b-3e25-43e6-b455-70c64777e49f" />
+M2.4 Create a program that checks if a person is eligible to vote — eligibility requires age ≥ 18 and citizenship = true (use logical AND).
+<img width="327" height="264" alt="image" src="https://github.com/user-attachments/assets/7f640b1a-a02d-4018-96ad-b4fa44203024" />
+M2.5 Write a program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
 
 
 
