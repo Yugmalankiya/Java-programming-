@@ -32,7 +32,7 @@ M2.4 Create a program that checks if a person is eligible to vote — eligibilit
 M2.5 Write a program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
 <img width="362" height="307" alt="image" src="https://github.com/user-attachments/assets/0e3d93af-3bb8-4701-94e4-daf212e2250e" />
 M2.6 Write a Java program that reads a number and uses the ternary operator to print whether it is even or odd.
-
-
+<img width="365" height="236" alt="Screenshot 2025-11-15 at 3 52 43 PM" src="https://github.com/user-attachments/assets/46d86a56-c7dc-4658-994e-0f033eef0e61" />
+M2.7 Write a Java program using an if-else statement to determine if an input number is positive, negative, or zero.
 
 
