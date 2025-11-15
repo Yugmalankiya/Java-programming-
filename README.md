@@ -24,6 +24,8 @@ module 2
 M2.1 Write a Java program to input two integers and display their sum, difference, product, quotient, and remainder.
 <img width="437" height="299" alt="image" src="https://github.com/user-attachments/assets/0c9f0a64-93e4-4dc5-9450-96e43092d08a" />
 M2.2 Write a program to perform bitwise AND, OR, and XOR operations on two integers entered by the user, and print the binary results.
+<img width="391" height="343" alt="image" src="https://github.com/user-attachments/assets/303dcf57-93d6-4865-a444-11e51ca3b20c" />
+M3.3 Write a Java program to compare two numbers and print which one is greater or if they are equal.
 
 
 
