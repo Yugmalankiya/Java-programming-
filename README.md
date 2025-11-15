@@ -37,5 +37,8 @@ M2.7 Write a Java program using an if-else statement to determine if an input nu
 <img width="354" height="298" alt="Screenshot 2025-11-15 at 4 01 14 PM" src="https://github.com/user-attachments/assets/314d45fc-1493-40f1-86a6-9d6448f36175" />
 M2.8 Write a program to print the multiplication table of a number using a for loop.
 <img width="379" height="442" alt="Screenshot 2025-11-15 at 4 05 38 PM" src="https://github.com/user-attachments/assets/1dfa3d67-bfef-40ba-9819-3c410b04308e" />
+M2.9 Write a Java program that prints numbers from 1 to 10, but skips 5 using the continue statement.
+<img width="398" height="387" alt="Screenshot 2025-11-15 at 4 12 48 PM" src="https://github.com/user-attachments/assets/c0520c40-376e-4c55-bc7d-fc6e31fb6368" />
 
+Module 3
 
