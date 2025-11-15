@@ -17,6 +17,7 @@
 9. Find the sum and average of elements in an array
 <img width="1280" height="383" alt="image" src="https://github.com/user-attachments/assets/0dbd7812-ca5a-448f-94c6-7617070e7b24" />
 10. Create a Student class and display student info
+<img width="1280" height="411" alt="image" src="https://github.com/user-attachments/assets/79e0a94f-0c96-4397-a05c-e1b37e43839e" />
 
 
 
