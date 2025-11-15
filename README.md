@@ -6,6 +6,9 @@
 <img width="1280" height="377" alt="image" src="https://github.com/user-attachments/assets/f094926d-f6da-46ee-a49c-1debecc37659" />
 4. Demonstrate type casting from double to int
 <img width="1280" height="350" alt="image" src="https://github.com/user-attachments/assets/1b19878c-004a-49ce-a48f-e1d9a155c2a5" />
+5. Swap two numbers without using a third variable
+<img width="1280" height="369" alt="image" src="https://github.com/user-attachments/assets/9c9ae58f-7fa3-487f-be54-ac3c22d3b9c6" />
+6. Check if a number is even or odd
 
 
 
