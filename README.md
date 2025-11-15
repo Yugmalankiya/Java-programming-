@@ -34,5 +34,6 @@ M2.5 Write a program to demonstrate +=, -=, and *= operations on an integer vari
 M2.6 Write a Java program that reads a number and uses the ternary operator to print whether it is even or odd.
 <img width="365" height="236" alt="Screenshot 2025-11-15 at 3 52 43 PM" src="https://github.com/user-attachments/assets/46d86a56-c7dc-4658-994e-0f033eef0e61" />
 M2.7 Write a Java program using an if-else statement to determine if an input number is positive, negative, or zero.
+<img width="354" height="298" alt="Screenshot 2025-11-15 at 4 01 14 PM" src="https://github.com/user-attachments/assets/314d45fc-1493-40f1-86a6-9d6448f36175" />
 
 
