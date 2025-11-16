@@ -41,4 +41,7 @@ M2.9 Write a Java program that prints numbers from 1 to 10, but skips 5 using th
 <img width="398" height="387" alt="Screenshot 2025-11-15 at 4 12 48 PM" src="https://github.com/user-attachments/assets/c0520c40-376e-4c55-bc7d-fc6e31fb6368" />
 
 Module 3
+M3.1
+<img width="329" height="283" alt="Screenshot 2025-11-16 at 10 44 11 AM" src="https://github.com/user-attachments/assets/22166032-5078-48ae-92c2-2d5227a740d4" />
+M3.2
 
