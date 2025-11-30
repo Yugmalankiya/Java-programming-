@@ -1,0 +1,64 @@
+1) write a java program to divide two numbers entered by the user. use try-catch to handle arithmeticexception (divide by zero)
+import java.util.Scanner;
+
+public class DivideNumbers {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter the numerator: ");
+        int numerator = sc.nextInt();
+
+        System.out.print("Enter the denominator: ");
+        int denominator = sc.nextInt();
+
+        try {
+            int result = numerator / denominator;
+            System.out.println("Result: " + result);
+        } catch (ArithmeticException e) {
+            System.out.println("Error: Cannot divide by zero!");
+        }
+    }
+}
+
+
+2)create:parent class product with a constructor that sets productld, subclass electronics with warrentyand its own showdetails(), use super() to call parent constructor and super.showdetaild() inside overridden method.
+// Parent class
+class Product {
+    protected int productId;
+
+    // Constructor that sets productId
+    public Product(int productId) {
+        this.productId = productId;
+    }
+
+    // Parent method to be overridden
+    public void showDetails() {
+        System.out.println("Product ID: " + productId);
+    }
+}
+
+// Subclass
+class Electronics extends Product {
+    private int warrantyYears;
+
+    // Constructor using super() to call parent constructor
+    public Electronics(int productId, int warrantyYears) {
+        super(productId);
+        this.warrantyYears = warrantyYears;
+    }
+
+    // Overridden method with super.showDetails()
+    @Override
+    public void showDetails() {
+        super.showDetails();  // Call parent version
+        System.out.println("Warranty (years): " + warrantyYears);
+    }
+}
+
+// Demo class
+public class Main {
+    public static void main(String[] args) {
+        Electronics e = new Electronics(2001, 3);
+        e.showDetails();
+    }
+}
